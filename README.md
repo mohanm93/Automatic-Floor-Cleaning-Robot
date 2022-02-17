@@ -29,3 +29,6 @@ The brief working of the model is as follows. Whenever the user provides the inp
 in UI of mobile application, command will be transmitted to Arduino Uno via Bluetooth
 module. Using this command, Arduino Uno (micro-controller) will carry out the cleaning
 action with the help of mops, wiper and water pump.
+
+Result:
+![WhatsApp Image 2022-02-17 at 8 56 22 PM](https://user-images.githubusercontent.com/99895380/154513813-a29c60e4-e5ab-4e28-a57e-789e8afb0912.jpeg)
