@@ -70,5 +70,24 @@ it is used for writing the code and later used for compiling and uploading the c
 the given arduino module.
 
 Android application is used to control all the robot actions such as movement of the
-vehicle, mopping and water pump mechanism. The android application is developed by MIT App inventor.
+vehicle, mopping and water pump mechanism. The android application is developed by MIT App inventor (App developed by @manoj0108).
 
+
+Result:
+The Automatic Floor Cleaning Robot" helps the user by reducing physical efforts by
+operating it through mobile application as shown in Figure and also saves time, water
+and manpower.
+
+![WhatsApp Image 2022-02-19 at 10 04 35 PM](https://user-images.githubusercontent.com/99895380/154809802-96756f19-6ed2-4f54-aa59-ad6cf8edace8.jpeg)
+
+Water pump, rotating mops and moving wiper all together makes the 
+oor cleaning action
+perfectly as shown in Figure. The Mops rotates both in Clockwise and Anticlockwise
+direction and wiper follows the wheels by that 
+oor cleaning can be performed effciently.
+
+![WhatsApp Image 2022-02-19 at 10 06 50 PM](https://user-images.githubusercontent.com/99895380/154809853-6e625dee-6284-466d-bedc-f40539410490.jpeg)
+
+The obstacle avoidance mechanism is shown in Figure. The rechargeable batteries produce adequate features to the robot, thereby increasing its working span.
+
+![WhatsApp Image 2022-02-19 at 10 08 42 PM](https://user-images.githubusercontent.com/99895380/154809947-9520dc55-accb-4b55-ba8d-f6daa8657060.jpeg)
