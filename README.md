@@ -63,11 +63,11 @@ The TIP122 is a Darlington pair n-p-n transistor. It functions like a normal n-p
 Software Used:
 
 Arduino IDE is an open source software that is used for writing the code into the arduino
-module. IDE stands for \Integrated Development Environment", where it can be used to
+module. IDE stands for Integrated Development Environment, where it can be used to
 edit, compile and upload the code to the arduino device. It supports both C and C++
 languages. The IDE environment mainly consists of two parts, editor and compiler where
 it is used for writing the code and later used for compiling and uploading the code into
-the given arduino module.
+the given Arduino UNO module. Here I have used C Programming to code the Arduino UNO module.
 
 Android application is used to control all the robot actions such as movement of the
 vehicle, mopping and water pump mechanism. The android application is developed by MIT App inventor (App developed by @manoj0108).
@@ -75,7 +75,7 @@ vehicle, mopping and water pump mechanism. The android application is developed 
 
 Result:
 
-The Automatic Floor Cleaning Robot" helps the user by reducing physical efforts by
+The Automatic Floor Cleaning Robot helps the user by reducing physical efforts by
 operating it through mobile application as shown in Figure and also saves time, water
 and manpower.
 
