@@ -74,6 +74,7 @@ vehicle, mopping and water pump mechanism. The android application is developed 
 
 
 Result:
+
 The Automatic Floor Cleaning Robot" helps the user by reducing physical efforts by
 operating it through mobile application as shown in Figure and also saves time, water
 and manpower.
