@@ -40,3 +40,20 @@ black material like Sharp rangefnders are (although acoustically soft materials 
 can be diffcult to detect). It comes complete with ultrasonic transmitter and receiver
 module.
 
+![Screenshot (162)](https://user-images.githubusercontent.com/99895380/154809242-641c9ca1-cccf-4bef-a0a3-36ec4eace8c9.png)
+
+DC motor used for the motion of the machine.
+It converts the electrical energy to the mechanical energy. It is connected with the wheels
+of the cleaner to move it in all directions. There by controls the complete movement of
+the cleaner. We can't control the direction of rotation and speed of the DC motor directly.
+To achieve this task L293D motor driver IC is used.
+
+water pump is used to spill water on the 
+oor and to keeps the mops moist for
+proper cleaning of the 
+floor. To avoid continuous 
+ow of water a Relay is used. This will
+be acts as a switch to control the 
+flow of water from the water tank.
+
+The TIP122 is a Darlington pair n-p-n transistor. It functions like a normal n-p-n transistor, but since it has a Darlington pair inside it has a good collector current rating of about 5A and a gain of about 1000. It can also withstand about 100V across its collector Emitter hence can be used to drive heavy loads.
