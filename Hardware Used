@@ -2,10 +2,9 @@ Arduino Uno basically a micro-controller which will collects and sends the input
 will be provided to Arduino Uno, which will activates the other parts of the module like
 motor driver and Relay.
 
-![WhatsApp Image 2022-02-19 at 9 13 45 PM (1)](https://user-images.githubusercontent.com/99895380/154807988-ae8ba112-bddd-47d2-bcd4-b98781a13b12.jpeg)
 
 HC-05 is the Bluetooth module is used in our project. It will act as Communication
 Bridge between Arduino UNO and Android Phone. It is a Serial Port Protocol Module,
 which signifes that it will communicate with Arduino UNO via Serial communication.
 
-![WhatsApp Image 2022-02-19 at 9 18 27 PM (1)](https://user-images.githubusercontent.com/99895380/154808116-8ca41a26-8bc4-4905-a223-c2a56c47633c.jpeg)
+
