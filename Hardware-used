@@ -1,5 +1,5 @@
 Arduino Uno basically a micro-controller which will collects and sends the input data depending on the code written in Arduino-IDE. The input data from the Bluetooth module
 will be provided to Arduino Uno, which will activates the other parts of the module like motor driver and Relay.
 
-![WhatsApp Image 2022-02-19 at 9 13 45 PM (1)](https://user-images.githubusercontent.com/99895380/154808395-603c3950-494c-4e0b-801c-e2f37152bc16.jpeg)
+![arduino](https://user-images.githubusercontent.com/99895380/154808525-5f9e2d05-e34a-49ac-a0cd-1d8449447344.jpeg)
 
