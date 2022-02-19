@@ -57,3 +57,18 @@ be acts as a switch to control the
 flow of water from the water tank.
 
 The TIP122 is a Darlington pair n-p-n transistor. It functions like a normal n-p-n transistor, but since it has a Darlington pair inside it has a good collector current rating of about 5A and a gain of about 1000. It can also withstand about 100V across its collector Emitter hence can be used to drive heavy loads.
+
+![Screenshot (163)](https://user-images.githubusercontent.com/99895380/154809428-b3cd2c39-99af-4fa6-a3a7-db636eb4a222.png)
+
+Software Used:
+
+Arduino IDE is an open source software that is used for writing the code into the arduino
+module. IDE stands for \Integrated Development Environment", where it can be used to
+edit, compile and upload the code to the arduino device. It supports both C and C++
+languages. The IDE environment mainly consists of two parts, editor and compiler where
+it is used for writing the code and later used for compiling and uploading the code into
+the given arduino module.
+
+Android application is used to control all the robot actions such as movement of the
+vehicle, mopping and water pump mechanism. The android application is developed by MIT App inventor.
+
